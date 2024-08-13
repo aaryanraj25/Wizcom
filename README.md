@@ -47,8 +47,7 @@ This Flutter app displays a product list where users can browse products, view d
    flutter test
 
 ## Code Structure
-
-
+```plaintext
 lib/
 ├── main.dart
 ├── models/
