@@ -28,7 +28,7 @@ This Flutter app displays a product list where users can browse products, view d
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Wizcom.git
+   git clone https://github.com/aaryanraj25/Wizcom.git
  
 2. **Navigate to the Project Directory**
    ```bash
