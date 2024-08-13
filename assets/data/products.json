@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Smartphone X",
+      "description": "The latest smartphone with advanced features.",
+      "price": 799.99,
+      "imageUrl": "https://s3no.cashify.in/pd-admin/908d050c523c44f6a115818cb0337605.jpeg?p=es5sq&s=es",
+      "categories": ["Electronics", "Smartphones"],
+      "rating": 4.5,
+      "reviewCount": 120
+    },
+    {
+      "id": "2",
+      "name": "Laptop Pro",
+      "description": "High-performance laptop for professionals.",
+      "price": 1299.99,
+      "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1698824136/Croma%20Assets/Computers%20Peripherals/Laptop/Images/302746_iz3xab.png?tr=w-640",
+      "categories": ["Electronics", "Computers"],
+      "rating": 4.8,
+      "reviewCount": 85
+    },
+    {
+      "id": "3",
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with noise cancellation.",
+      "price": 149.99,
+      "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-buds3-pro-r630-sm-r630nzaainu-542134810?$2052_1641_PNG$",
+      "categories": ["Electronics", "Audio"],
+      "rating": 4.3,
+      "reviewCount": 200
+    }
+  ]
